@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/flower"
+            android:icon="@drawable/ic_flower2"
+            android:title="Cauliflower" />
+        <item
+            android:id="@+id/leaves"
+            android:icon="@drawable/ic_vegetable"
+            android:title="Leafy Greens" />
+        <item
+            android:id="@+id/fruit"
+            android:icon="@drawable/ic_fruit"
+            android:title="Fruits" />
+        <item
+            android:id="@+id/root"
+            android:icon="@drawable/ic_carrot"
+            android:title="Roots &amp; Tubers" />
+        <item
+            android:id="@+id/salid"
+            android:icon="@drawable/ic_salid"
+            android:title="Salads" />
+        <item
+            android:id="@+id/mycart"
+            android:icon="@drawable/cartpng"
+            android:title="My Cart" />
+    </group>
+    <item
+        android:id="@+id/nav_send"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Contact Seller" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="Log Out" />
+
+</menu>

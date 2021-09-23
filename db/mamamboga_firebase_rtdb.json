@@ -1,0 +1,124 @@
+{
+    "AllFood": {
+        "flower": {
+            "01": {
+                "advantages": "Broccoli decreases the risk of obesity, reduce allergic reactions, and overall mortality, it is a powerful antioxidant and anti-ageing vegetable.",
+                "diseaseHeal": "Cancer, Cholesterol, Bone health, heart disease, diabetes, stroke, hypertension and inflammation.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fbroccoli.jpg?alt=media&token=460f94fe-ecbf-4ade-bf7d-6ccf1bef5664",
+                "foodName": "Broccoli",
+                "localFoodName": "Broccoli",
+                "id": "flower_01",
+                "precaution": "If you are taking blood-thinners, such as Coumadin or warfarin do not consume too much broccoli it contains vitamin K which plays a large role in blood clotting.",
+                "price": "35",
+                "vitamins": "Vitamin B6, C, E, K, Calcium, Magnesium, Potassium, Sodium."
+            },
+            "02": {
+                "advantages": "Cauliflower provides antioxidants and phytonutrients that can protect against cancer. It also contains fibres to enhance weight loss and digestion, choline that is essential for learning and memory, and many other important nutrients.",
+                "diseaseHeal": "Coronary heart disease, stroke, hypertension, diabetes, obesity, certain gastrointestinal diseases, increased energy, and overall lower weight.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fcauliflower.jpg?alt=media&token=130790e1-b924-49ae-b28b-15345f778134",
+                "foodName": "Cauliflower",
+                "localFoodName": "Cauliflower",
+                "id": "flower_02",
+                "precaution": "There may be some unwanted effects of consuming excess cauliflower, due to high in fibre may cause increased bloating and flatulence. If you are taking blood-thinners such as Coumadin or warfarin, do not consume too much cauliflower as it contains vitamin K which plays a large role in blood clotting.",
+                "price": "28",
+                "vitamins": "Vitamin B6, C, K, Calcium, Magnesium, Potassium."
+            }
+        },
+        "fruit": {
+            "01": {
+                "advantages": "Apples are extremely rich in important antioxidants, flavonoids, and dietary fibre.",
+                "diseaseHeal": "Help reduce the risk of developing cancer, hypertension, diabetes, and heart disease.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fapple.jpg?alt=media&token=130c7a1e-582e-4c0f-ab68-c9b18104bf0e",
+                "foodName": "Apple",
+                "localFoodName": "Apple",
+                "id": "fruit_01",
+                "precaution": "Apple seeds should not be consumed. <br> Apples are fairly acidic. They can be up to four times more damaging to teeth than carbonated drinks.",
+                "price": "20",
+                "vitamins": "Vitamin A, B1, B2, B5, B6, B9, C, K, Iron, Potassium, Magnesium, Potassium, Carbohydrates."
+            },
+            "02": {
+                "advantages": "Bananas are extremely healthy and delicious. They contain several essential nutrients and provide benefits for digestion, heart health and weight loss. Aside from being very nutritious, they are also a highly convenient snack food.",
+                "diseaseHeal": "Banana may help prevent asthma, cancer, high blood pressure, diabetes, cardiovascular disease, and digestive problems.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fbanana.jpeg?alt=media&token=c8b35d36-aeee-47fe-ba8e-44459ce43b1f",
+                "foodName": "Banana",
+                "localFoodName": "Ndizi",
+                "id": "fruit_02",
+                "precaution": "Banana contains high potassium, consuming too much potassium can be harmful for those whose kidneys are not fully functional. If your kidneys are unable to remove excess potassium from the blood, it could be fatal.",
+                "price": "22",
+                "vitamins": "Vitamin A, B6, C, Iron, Potassium, Protein."
+            }
+        },
+        "leaves": {
+            "01": {
+                "advantages": "Cabbage consumption can help promote a healthy complexion, increased energy, and overall lower weight. Cabbage is a leafy vegetable of Brassica family and is round or oval in shape. It consists of soft, light green or whitish inner leaves covered with harder and dark green outer leaves.",
+                "diseaseHeal": "The cabbage may help protect against radiation, prevent cancer, and decreases the risk of diabetes, obesity, heart disease, and overall mortality.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fcabbage.jpg?alt=media&token=a182fc29-9749-4862-8969-02e8e34d143b",
+                "foodName": "Cabbage",
+                "localFoodName": "Mboga",
+                "id": "leaves_01",
+                "precaution": "Some people have trouble digesting cruciferous vegetables and may have digestive symptoms. <br> If you are taking blood-thinners, such as Coumadin (warfarin), it is important that you do not suddenly begin to eat more or less foods containing vitamin K, which plays a large role in blood clotting.",
+                "price": "21",
+                "vitamins": "Vitamin B6, C, K, Magnesium, Potassium, Carbohydrates."
+            },
+            "02": {
+                "advantages": "Lettuce possesses anti-inflammatory properties that help in controlling inflammation. In experimental models, lettuce extracts have shown significant controlling power over inflammation induced by biocatalysts like lipoxygenase and carrageenan. <br> Protects Neuronal Cells regeneration.",
+                "diseaseHeal": "Alzheimer’s neurodegenerative diseases, controls anxiety, lowering high cholesterol, antioxidant agent, antimicrobial agent.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Flettuce.jpg?alt=media&token=e23693aa-6521-463b-9b78-4678b5022d54",
+                "foodName": "Lettuce",
+                "localFoodName": "Lettuce",
+                "id": "leaves_02",
+                "precaution": "Studies have shown that even lettuce can produce allergies, food allergies that result in anaphylaxis are the worst kind and according to the Center for Disease Control, they are on the rise.",
+                "price": "22",
+                "vitamins": "vitamin A, B6, C, E, K, calcium, iron, magnesium, phosphorus, potassium, sodium, and zinc"
+            }
+        },
+        "root": {
+            "01": {
+                "advantages": "Many studies indicate that eating beetroot decreases the risk of obesity, overall mortality, diabetes, and heart disease and promotes a healthy complexion and hair, increased energy, and overall lower weight.",
+                "diseaseHeal": "beetroot decreases the risk of obesity, overall mortality, diabetes, and heart disease and promotes a healthy complexion and hair, increased energy, and overall lower weight.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fbeetroot.jpg?alt=media&token=4face5a4-402d-4a5d-9194-f95dd447c94e",
+                "foodName": "Beetroot",
+                "localFoodName": "Beetroot",
+                "id": "root_01",
+                "precaution": "If improperly stored, nitrate-containing vegetable juice may accumulate bacteria that convert nitrate to nitrite and contaminate the juice. High levels of nitrite can be potentially harmful if consumed. <br> Drinking beetroot juice may cause red urine or stool.",
+                "price": "40",
+                "vitamins": "Vitamin A, C , Iron, Calcium, Carbohydrates."
+            },
+            "02": {
+                "advantages": "Carrots contain antioxidants, which may protect against cancer. <br> While they may not help you see in the dark, the vitamin A in carrots helps prevent vision loss. Carrots are available all year round and can be used in savory dishes, cakes, and juices.",
+                "diseaseHeal": "Carrots contain beta-carotene which may reduce the risk of Lung Cancer, Colorectal Cancer, Leukemia. Vitamin A deficiency can lead to xerophthalmia, a progressive eye disease.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fcarrot.jpg?alt=media&token=562357a4-7000-4c2a-b8e9-80d1cf8a20f7",
+                "foodName": "Carrots",
+                "localFoodName": "Karoti",
+                "id": "root_02",
+                "precaution": "Overconsumption of vitamin A can be toxic to humans. It may cause a slight orange tinge in skin color, but this not harmful to health. <br> Large amounts of carrots could lead to hypervitaminosis A, an overdose of vitamin A.",
+                "price": "30",
+                "vitamins": "Vitamin A, C, K, Magnesium, Calcium, Potassium, Sodium."
+            }
+        },
+        "salad": {
+            "01": {
+                "advantages": "Tomatoes are known to help protect against cancer, maintain healthy blood pressure, and reduce blood glucose in people with diabetes",
+                "diseaseHeal": "Cancer, Blood pressure, Diabetes, Constipation.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Ftomato.jpg?alt=media&token=15ea4151-c08b-4bfe-b4d3-3c1325b2da4d",
+                "foodName": "Tomatoes",
+                "localFoodName": "Nyanya",
+                "id": "salad_01",
+                "precaution": "High potassium foods such as tomatoes should be consumed in moderation when taking beta-blockers. Consuming too much potassium can be harmful to people with impaired kidney function. Failure to remove excess potassium from the blood can be fatal.",
+                "price": "20",
+                "vitamins": "Vitamin A, C, Potassium, Phosphorus."
+            },
+            "02": {
+                "advantages": "Cucumbers consist mainly of water. Cucumber can be used for soothe sunburn. Early research shows that a compound found in cucumbers might help fight cancer. Cucumbers contain lignan, which may help fight cardiovascular disease. Cucumber is a versatile food that can be added to a variety of dishes.",
+                "diseaseHeal": "Cucumber lower risk of obesity, diabetes, heart disease, among others, while promoting a healthy complexion, increased energy, and a healthy body weight.",
+                "foodImage": "https://firebasestorage.googleapis.com/v0/b/learnpopote.appspot.com/o/product-images%2Fcucumber.jpg?alt=media&token=fc23fddb-24d5-45de-8425-5f2e1db5ab2c",
+                "foodName": "Cucumber",
+                "localFoodName": "Tango",
+                "id": "salad_2",
+                "precaution": "Some cucurbitacins are known to be toxic. Consuming these could be hazardous. People are advised not to eat the plant on which cucumbers grow, and some fruits of the same family, namely the bottle gourd, have caused illness. The concentration of cucurbitacins in the everyday cucumber are unlikely to cause toxicity, and their nutritional benefits far outweight any risks of pesticide or natural poisoning.",
+                "price": "35",
+                "vitamins": "Vitamin B6, C, Phosphorus, Potassium, Magnesium, Calcium."
+            }
+        }
+    }
+}
